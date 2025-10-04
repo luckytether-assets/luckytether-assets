@@ -1,3 +1,6 @@
+بله! اینجا کل فایل کامل README.md است:
+
+```
 # LuckyTether (LTETHER) Token Assets
 
 Official assets and metadata for LuckyTether token on Binance Smart Chain.
@@ -15,4 +18,25 @@ Official assets and metadata for LuckyTether token on Binance Smart Chain.
 - `assets/trust-wallet-assets/` - Trust Wallet submission files
 
 ## Usage
+
 **Logo URL:**
+```
+https://raw.githubusercontent.com/luckytether-assets/luckytether-assets/main/metadata/general/logo.png
+```
+
+**Metadata URL:**
+```
+https://raw.githubusercontent.com/luckytether-assets/luckytether-assets/main/metadata/general/token-metadata.json
+```
+
+## Wallet Integration
+This repository contains assets for integration with:
+- Trust Wallet
+- MetaMask  
+- CoinGecko
+- CoinMarketCap
+- Other Web3 wallets
+
+## License
+MIT License - Free to use for wallet integrations and cryptocurrency platforms.
+```
