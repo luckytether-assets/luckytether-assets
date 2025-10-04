@@ -1,16 +1,18 @@
-## Hi there 👋
+# LuckyTether (LTETHER) Token Assets
 
-<!--
-**luckytether-assets/luckytether-assets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official assets and metadata for LuckyTether token on Binance Smart Chain.
 
-Here are some ideas to get you started:
+## Token Information
+- **Name**: LuckyTether
+- **Symbol**: LTETHER  
+- **Contract**: 0xEAa6f7EbE97E9a5fD143Df8Db537a322F3000886
+- **Network**: Binance Smart Chain (BSC)
+- **Decimals**: 18
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Files
+- `metadata/general/logo.png` - Token logo (44KB PNG)
+- `metadata/general/token-metadata.json` - General metadata
+- `assets/trust-wallet-assets/` - Trust Wallet submission files
+
+## Usage
+**Logo URL:**
