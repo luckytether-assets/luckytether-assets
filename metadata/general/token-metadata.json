@@ -1,0 +1,14 @@
+{
+  "name": "LuckyTether",
+  "symbol": "LTETHER",
+  "address": "0xEAa6f7EbE97E9a5fD143Df8Db537a322F3000886",
+  "decimals": 18,
+  "chainId": 56,
+  "logoURI": "https://raw.githubusercontent.com/YOUR_USERNAME/luckytether-assets/main/logo.png",
+  "tags": ["defi", "utility", "bsc"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
