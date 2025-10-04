@@ -1,4 +1,3 @@
-بله! اینجا کل فایل کامل README.md است:
 
 ```
 # LuckyTether (LTETHER) Token Assets
